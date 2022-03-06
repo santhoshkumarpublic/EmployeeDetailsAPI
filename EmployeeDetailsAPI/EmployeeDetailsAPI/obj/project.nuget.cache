@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10SdCjQ7W0gxxTQHP+J/4TsmCiaGEE9lbUXHgQGTHq4RkgxNXDcyWBy2lfC/ITb29GGnlA7vCndVOa9M6PMjZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\React\\Standarded Australia\\API\\EmployeeDetailsAPI\\EmployeeDetailsAPI\\EmployeeDetailsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A0763182\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
